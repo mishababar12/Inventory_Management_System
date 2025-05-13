@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Electronics",
+        "product_id": "12",
+        "name": "washing machine",
+        "price": 6700.0,
+        "quantity_in_stock": 7,
+        "warranty_years": 2,
+        "brand": "haier"
+    },
+    {
+        "type": "Clothing",
+        "product_id": "230",
+        "name": "kurti",
+        "price": 4000.0,
+        "quantity_in_stock": 10,
+        "size": "medium",
+        "material": "cotton lawn"
+    }
+]

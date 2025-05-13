@@ -1,0 +1,19 @@
+[
+    {
+        "type": "Grocery",
+        "product_id": "124",
+        "name": "jelly",
+        "price": 100.0,
+        "quantity_in_stock": 12,
+        "expiry_date": "2026-04-23"
+    },
+    {
+        "type": "Electronics",
+        "product_id": "135",
+        "name": "iron",
+        "price": 4000.0,
+        "quantity_in_stock": 6,
+        "warranty_years": 2,
+        "brand": "haier"
+    }
+]
